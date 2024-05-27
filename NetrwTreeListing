@@ -1,0 +1,13 @@
+" ============================================================================
+" Netrw Directory Listing                                        (netrw v171)
+"   /d/ahsokIT/DEVOPSLeraning/DayaDevops/project1/devopsLernings
+"   Sorted by time
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+../
+devopsLernings/
+| README.md
+| .git/
+| python2.py/
+| python.py
+| python1.py/
